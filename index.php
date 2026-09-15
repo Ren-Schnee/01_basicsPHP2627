@@ -1,20 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
+
 <body>
 
-<ul>
-    <li>
-        <a href="./01_echo.php">01_Echo</a>
-    </li>
+    <ul>
         <li>
-        <a href="./02_info.php">01_info</a>
-    </li>
-</ul>
-    
+            <a href="./01_echo.php">01_Echo</a>
+        </li>
+        <li>
+            <a href="./02_info.php">01_info</a>
+        </li>
+        <li>
+            <a href="./03_variables.php">03_variables</a>
+        </li>
+                <li>
+            <a href="./04_arrays.php">03_variables</a>
+        </li>
+    </ul>
+
 </body>
+
 </html>
