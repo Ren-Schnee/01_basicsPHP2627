@@ -11,6 +11,9 @@
     <li>
         <a href="./01_echo.php">01_Echo</a>
     </li>
+        <li>
+        <a href="./02_info.php">01_info</a>
+    </li>
 </ul>
     
 </body>
