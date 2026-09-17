@@ -14,13 +14,16 @@
             <a href="./01_echo.php">01_Echo</a>
         </li>
         <li>
-            <a href="./02_info.php">01_info</a>
+            <a href="./02_info.php">02_Info</a>
         </li>
         <li>
             <a href="./03_variables.php">03_variables</a>
         </li>
                 <li>
-            <a href="./04_arrays.php">03_variables</a>
+            <a href="./04_arrays.php">04_Arrays</a>
+        </li>
+        <li>
+            <a href="./05_condicional.php">05_Condicional</a>
         </li>
     </ul>
 
