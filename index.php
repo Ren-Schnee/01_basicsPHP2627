@@ -25,6 +25,12 @@
         <li>
             <a href="./05_condicional.php">05_Condicional</a>
         </li>
+        <li>
+            <a href="./06_dates.php">06_Dates</a>
+        </li>
+        <li>
+            <a href="./07_variables_sessio.php">07_Variables_Sessio</a>
+        </li>
     </ul>
 
 </body>
