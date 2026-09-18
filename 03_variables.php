@@ -9,19 +9,22 @@
 
 <body>
     <?php
-    $varible1 = "toni";
-    $varible2 = 25;
-    $varible3 = ["maduixa", "pera", "poma"];
+    $nom = "Acer Laptop super mega 3000";
+    $marca = "Acer";
+    $preu = 400;
+    $disponible = true;
+    $stock = 5;
+    $os_installats = ["Windows 10", "Debian", "Ubuntu"];
     ?>
 
     <ul>
-        <li>la variable 1 es: <?php echo $varible1; ?></li>
-        <li>la variable 2 es: <?= $varible2 ?></li>
-        <li>la variable 3 es: <?php print_r($varible3); ?></li>
-        <li>la variable 3 es: <?php var_dump($varible3); ?></li>
+        <li>nom del PC: <?php echo $nom; ?></li>
+        <li>Marca: <?= $marca ?></li>
+        <li>Llista de OS: <?php print_r($os_installats); ?></li>
+        <li>Disponibilitat: <?php var_dump($disponible); ?></li>
         <li>
             <pre>
-                <?php print_r($varible3);?>
+                <?php print_r($os_installats);?>
             </pre>
         </li>
 
